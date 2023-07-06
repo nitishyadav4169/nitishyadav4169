@@ -1,3 +1,4 @@
+![logo](https://github.com/nitishyadav4169/nitishyadav4169/blob/main/Nitish%20kumar%20yadav.png)
 <h1 align="center">Hi 👋, I'm Nitish Kumar Yadav</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
